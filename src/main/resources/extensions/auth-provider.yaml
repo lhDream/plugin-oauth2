@@ -71,7 +71,7 @@ metadata:
 spec:
   displayName: LinuxDo
   description: LINUX DO - 新的理想型社区
-  logo: /plugins/plugin-oauth2/assets/static/linuxdo.svg
+  logo: /plugins/plugin-oauth2/assets/static/linuxdo.webp
   website: https://linux.do
   helpPage: https://linux.do/t/topic/29954
   authenticationUrl: /oauth2/authorization/linuxdo
